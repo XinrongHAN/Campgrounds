@@ -1,4 +1,6 @@
 # ⛺️ Campgrounds management platform
+
+#### 🔸bootstrap 🔸ejs 🔸node.js 🔸MongoDB
 ### 🔗[project link](https://warm-springs-86298.herokuapp.com/)
 ## 01 Home page🏠
 ![home](/screenshots/Home.png)
